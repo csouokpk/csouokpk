@@ -13,10 +13,7 @@
 
 - ⚡ Fun fact *I once solved a coding bug by taking my 🐕dog for a walk. Fresh air 🍃 and a change of scenery can do wonders for debugging!*
 
-  <p align="center"> <a href="https://github.com/csouokpk/github-profile-trophy"> </p>
-
-  ---
-  <img src="https://github-profile-trophy.vercel.app/?username=csouokpk" alt="csouokpk" /></a>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </p><img src="https://github-profile-trophy.vercel.app/?username=csouokpk" alt="csouokpk" /></a>
 
 - ## My Statistics 🚀
 ![csouokpk's github stats](https://github-readme-stats.vercel.app/api?username=csouokpk&show_icons=true&theme=tokyonight)
